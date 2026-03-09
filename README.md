@@ -1,3 +1,27 @@
+## Diagrama de classes
+
+```mermaid
+classDiagram
+
+class Question {
+    id: str
+    question: str
+    sql: str
+    dataset: str
+    answer: Answer
+    created_at: datetime
+    updated_at: datetime
+}
+
+class Answer {
+    columns: list[str] 
+    rows: list[list[SQLValue]] 
+    execution_time: float
+}
+
+Question *-- Answer
+```
+
 ## Estrutura de dados
 
 ```bash
