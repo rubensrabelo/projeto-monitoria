@@ -1,0 +1,11 @@
+id,produto,categoria,valor,quantidade,cidade
+1,Notebook,Eletronicos,3500,1,Sao Paulo
+2,Mouse,Eletronicos,80,5,Rio de Janeiro
+3,Teclado,Eletronicos,200,2,Belo Horizonte
+4,Cadeira,Moveis,900,1,Sao Paulo
+5,Mesa,Moveis,1500,1,Curitiba
+6,Monitor,Eletronicos,1200,2,Porto Alegre
+7,Fone,Eletronicos,300,3,Sao Paulo
+8,Lampada,Casa,40,10,Recife
+9,Sofa,Moveis,2500,1,Brasilia
+10,TV,Eletronicos,4200,1,Sao Paulo
